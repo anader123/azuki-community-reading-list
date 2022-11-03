@@ -81,11 +81,18 @@ Great websites that provided detailed information about what is happening in cry
 
 - [Azuki Collection Stats](https://dune.com/Cryptano/AZUKI-Overview)
 - [ETH Supply](https://ultrasound.money/)
-- [ Gas Tracker](https://www.blocknative.com/gas-estimator)
+- [Gas Tracker](https://www.blocknative.com/gas-estimator)
 - [Crypto Protocol Fees](https://cryptofees.info/)
 - [Layer 2 Progress](https://l2beat.com/scaling/tvl/)
 - [Crypto Prices](https://www.coingecko.com/)
 - [NFT Prices and Data](https://www.flips.finance/)
+- [DeFi Data](https://defillama.com/)
+
+## Advanced Stats
+
+- [Staker Data](https://www.rated.network/?network=mainnet&view=entity)
+- [Client Distribution](https://clientdiversity.org/#distribution)
+- [MEV Boost](https://mevboost.pics/)
 
 ## Recommended Books
 
