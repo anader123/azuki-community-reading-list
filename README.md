@@ -18,6 +18,7 @@ Feel free to tweet at [@0xNader](https://twitter.com/0xNader) on Twitter for any
 - [Crypto Media](#crypto-media)
 - [Layer 2](#layer-2)
 - [Stats Websites](#stats-websites)
+- [Advanced Stats](#advanced-stats)
 - [Recommended Books](#recommended-books)
 - [Educators on Twitter](#educators-on-twitter)
 
@@ -32,6 +33,7 @@ Foundational knowledge on what Ethereum is and how it works.
 - [Viewing a Transaction on Etherscan](https://docs.ethhub.io/guides/deciphering-a-transaction-on-etherscan/)
 - [Ethereum Glossary](https://ethereum.org/en/glossary/)
 - [The Crypto Renaissance](https://www.youtube.com/watch?v=karddOiv4ZA)
+- [What is MEV (Advanced Resource)](https://www.paradigm.xyz/2021/02/mev-and-me)
 
 ## NFT Basics
 
