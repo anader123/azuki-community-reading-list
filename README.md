@@ -46,6 +46,8 @@ Beginner material on how to store your crypto and NFTs.
 - [What is a Seed Phrase/Recovery Phrase](https://www.ledger.com/academy/enter-the-trust-zone/why-the-twenty-four-words-phrase)
 - [What is a Seed Phrase/Recovery Phrase 2](https://www.nerdwallet.com/article/investing/seed-phrase)
 - [Hot vs Cold Wallet](https://www.nerdwallet.com/article/investing/hot-wallet-vs-cold-wallet)
+- [Wallets - Advanced Resource](https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc)
+- [Transactions - Advanced Resource](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)
 
 ## NFT Basics
 
