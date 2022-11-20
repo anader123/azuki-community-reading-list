@@ -13,6 +13,7 @@ Feel free to tweet at [@0xNader](https://twitter.com/0xNader) on Twitter for any
 ## Table of Contents
 
 - [General Crypto](#general-crypto)
+- [Wallets](#wallets)
 - [NFT Basics](#nft-basics)
 - [NFT Advanced](#nft-advanced)
 - [Crypto Media](#crypto-media)
@@ -34,6 +35,17 @@ Foundational knowledge on what Ethereum is and how it works.
 - [Ethereum Glossary](https://ethereum.org/en/glossary/)
 - [The Crypto Renaissance](https://www.youtube.com/watch?v=karddOiv4ZA)
 - [What is MEV (Advanced Resource)](https://www.paradigm.xyz/2021/02/mev-and-me)
+
+## Wallets
+
+Beginner material on how to store your crypto and NFTs.
+
+- [MetaMask Download](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) - Don't keep a large amount of funds on MetaMask
+- [Ledger](https://shop.ledger.com/products/ledger-nano-s-plus) - HIGHLY recommended to buy a leger to keep funds safe
+- [How to keep your crypto safe](https://www.ledger.com/academy/enter-the-trust-zone/crypto-how-to-keep-it-safe)
+- [What is a Seed Phrase/Recovery Phrase](https://www.ledger.com/academy/enter-the-trust-zone/why-the-twenty-four-words-phrase)
+- [What is a Seed Phrase/Recovery Phrase 2](https://www.nerdwallet.com/article/investing/seed-phrase)
+- [Hot vs Cold Wallet](https://www.nerdwallet.com/article/investing/hot-wallet-vs-cold-wallet)
 
 ## NFT Basics
 
