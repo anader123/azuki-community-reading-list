@@ -69,7 +69,7 @@ This section covers denser material on NFTs.
 - [What is Nouns DAO](https://create.zora.co/collections/0xd973f8583391c65d7a9a0060dbed26ad0b95fa63)
 - [Nouns Builder](https://docs.zora.co/docs/smart-contracts/nouns-builder/intro) (Build your own DAO)
 - [721A](https://www.erc721a.org/) - Azuki's Improvement on the ERC-721 Standard
-- [PBT](https://www.pbt.io/) - Physically Back NFTs
+- [PBT](https://www.pbt.io/) - Physically Backed NFTs
 
 ## Crypto Media
 
