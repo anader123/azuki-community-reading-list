@@ -51,7 +51,7 @@ Beginner material on how to store your crypto and NFTs.
 
 ## NFT Basics
 
-Introduction information for Non-fugible tokens (NFTs).
+Introduction information for Non-fungible tokens (NFTs).
 
 - [What is an NFT](https://www.youtube.com/watch?v=FkUn86bH34M)
 - [A Guide to NFTs](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d)
@@ -61,13 +61,15 @@ Introduction information for Non-fugible tokens (NFTs).
 
 ## NFT Advanced
 
-Denser material on NFTs.
+This section covers denser material on NFTs.
 
 - [NFT Token Standards](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_standards)
 - [Storing NFT Data](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont)
 - [NFTs and Ownership](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 - [What is Nouns DAO](https://create.zora.co/collections/0xd973f8583391c65d7a9a0060dbed26ad0b95fa63)
 - [Nouns Builder](https://docs.zora.co/docs/smart-contracts/nouns-builder/intro) (Build your own DAO)
+- [721A](https://www.erc721a.org/) - Azuki's Improvement on the ERC-721 Standard
+- [PBT](https://www.pbt.io/) - Physically Back NFTs
 
 ## Crypto Media
 
